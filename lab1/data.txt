@@ -1,0 +1,6 @@
+Argument number 1 is 1
+Argument number 2 is 2
+Argument number 3 is 6
+Argument number 4 is 7
+Argument number 5 is 8
+1 + 2 + 6 + 7 + 8 = 24
